@@ -5,49 +5,61 @@
 
 ## 🧬 About Me
 
-I'm a **second-year PhD student** at the *Institute of Medical Sciences*, University of Aberdeen, working under **Dr. Hajime Murakami** in the Murakami Lab. My research focuses on understanding the **molecular mechanisms of meiotic recombination initiation**, particularly how **cohesin** and **chromosome axis proteins** coordinate to ensure faithful recombination and chromosome segregation.
+I'm a **second-year PhD student** at the *Institute of Medical Sciences*, **University of Aberdeen**, working in the **Murakami Lab** under the supervision of **Dr. Hajime Murakami**.
 
-🔬 My toolkit includes:
-- Advanced **ChIP-seq**
-- Crosslinking assays
-- Bioinformatics analysis
-- Scientific storytelling & data visualization
+My research dives into the **molecular mechanisms of meiotic recombination initiation**, specifically how **cohesin** and **chromosome axis proteins** collaborate to orchestrate accurate DNA recombination and chromosome segregation.
+
+🔬 Techniques I use:
+- **Advanced ChIP-seq**
+- **In vivo crosslinking**
+- **Bioinformatics** for genome-wide signal analysis
+- Scientific storytelling & visualization
 
 ---
 
-## 🎓 Academic Journey
+## 🧠 Academic Snapshot
 
-- 🧪 **PhD in Medical Sciences**, University of Aberdeen  
-  → *School of Medicine Elphinstone Award* + *School of Medicine Award*  
+- 🎓 **PhD in Medical Sciences**, University of Aberdeen  
+  → *School of Medicine Elphinstone Award* & *School of Medicine Award*
 - 💡 **MSc in Molecular Medicine**, University of Aberdeen  
-  → *Chevening Scholar* 🇬🇧  
+  → *Chevening Scholar* 🇬🇧
 - 🧬 **BSc in Genetics, Biochemistry & Biotechnology**, University of Bangalore  
-  → *First-Class Graduate* 🥇  
+  → *First-Class Graduate* 🥇
 
 ---
 
 ## 🌱 Currently Growing In...
 
-- 🐍 Python for advanced bioinformatics pipelines  
-- 📊 **R** for data analysis, visualization, and modeling  
-- ⚗️ **Advanced ChIP-seq** and chromatin biology methods  
-- 🖥️ Dashboard development with **Shiny (R)** & **Flask + Plotly (Python)**  
+- 🐍 **Python** – advanced workflows for genomic data
+- 📊 **R** – statistical modeling and data visualization
+- ⚗️ **Advanced ChIP-seq**, chromatin IP, and crosslinking assays
+- 🖥️ Interactive dashboards using **Shiny (R)** & **Flask + Plotly (Python)**
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🧩 Affiliations
 
-I'm excited to collaborate on:
-- 🔬 ChIP-seq pipelines & epigenomic data science  
-- 🌍 Open-source biology tools  
-- 📘 Translating science for public health & education (especially in Tamil!)  
+- 🧪 **Murakami Lab**, IMS, University of Aberdeen  
+  → Exploring cohesin, Red1, Hop1, and recombination
+- 🌍 **Founding Member – [CPHMR](https://cphmr.org/)**  
+  → *Consortium for the Promotion of Health and Medical Research*  
+  → 🎯 **Goal:** "Promoting community-level collaboration in health, medicine, and research with a focus on education, policy, and sustainable development across South Asia."
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let’s Collaborate On
+
+- 🔬 **ChIP-seq and epigenomic pipelines**
+- 🧬 **Open-source tools** for biological data analysis
+- 🌱 **Health education** tools in local languages (especially Tamil)
+- 🏥 **Community health research** and field-based interventions
+
+---
+
+## 📫 Reach Me
 
 - 📧 Email: [a.rajalingam.23@abdn.ac.uk](mailto:a.rajalingam.23@abdn.ac.uk)  
-- 🔗 University Profile: [abdn.ac.uk/people/a.rajalingam.23](https://www.abdn.ac.uk/people/a.rajalingam.23)  
+- 🔗 University: [abdn.ac.uk/people/a.rajalingam.23](https://www.abdn.ac.uk/people/a.rajalingam.23)  
 - 🐦 Twitter: [@R_Arrosan](https://x.com/R_Arrosan)  
 - 💼 LinkedIn: [linkedin.com/in/arrosan06](https://www.linkedin.com/in/arrosan06)
 
@@ -55,7 +67,7 @@ I'm excited to collaborate on:
 
 ## ⚡ Fun Fact
 
-> I love **translating science into Tamil** 🇱🇰 and building **healthcare education tools** for rural communities 🚑📘.
+> I love **translating science into Tamil** 🇱🇰 and creating **community-centered health tools** for rural areas 🚑📘.
 
 ---
 
