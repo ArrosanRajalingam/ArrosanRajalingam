@@ -67,7 +67,7 @@ My research dives into the **molecular mechanisms of meiotic recombination initi
 
 ## ⚡ Fun Fact
 
-> I love **translating science into Tamil** 🇱🇰 and creating **community-centered health tools** for rural areas 🚑📘.
+> I love **translating science into Tamil** and creating **community-centered health tools** for rural areas 🚑📘.
 
 ---
 
