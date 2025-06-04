@@ -11,7 +11,7 @@ My research dives into the **molecular mechanisms of meiotic recombination initi
 
 🔬 Techniques I use:
 - **Advanced ChIP-seq**
-- **In vivo crosslinking**
+- **Molecular Biology Techniques**
 - **Bioinformatics** for genome-wide signal analysis
 - Scientific storytelling & visualization
 
