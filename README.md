@@ -19,7 +19,7 @@ My research dives into the **molecular mechanisms of meiotic recombination initi
 
 ## 🧠 Academic Snapshot
 
-- 🎓 **PhD in Medical Sciences**, University of Aberdeen  
+- 🎓 **PhD reading in Medical Sciences**, University of Aberdeen  
   → *School of Medicine Elphinstone Award* & *School of Medicine Award*
 - 💡 **MSc in Molecular Medicine**, University of Aberdeen  
   → *Chevening Scholar* 🇬🇧
