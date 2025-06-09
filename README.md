@@ -13,7 +13,6 @@ My research dives into the **molecular mechanisms of meiotic recombination initi
 - **Advanced ChIP-seq**
 - **Molecular Biology Techniques**
 - **Bioinformatics** for genome-wide signal analysis
-- Scientific storytelling & visualization
 
 ---
 
