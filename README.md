@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Arush 👋</h1>
-<h3 align="center">aka @ArrosanCodeLab | PhD Researcher in Medical Sciences | University of Aberdeen</h3>
+<h3 align="center">aka @ArrosanRajalingam | PhD Researcher in Medical Sciences | University of Aberdeen</h3>
 
 ---
 
