@@ -75,8 +75,8 @@ My research investigates the **molecular mechanisms of meiotic recombination ini
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ArrosanRajalingam&show_icons=true&hide_border=true&title_color=2D9596&icon_color=2D9596">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArrosanRajalingam&layout=compact&hide_border=true&title_color=2D9596">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ArrosanRajalingam&show_icons=true&hide_border=true&title_color=2D9596&icon_color=2D9596&include_all_commits=true">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArrosanRajalingam&layout=compact&hide_border=true&title_color=2D9596&hide=html">
 </p>
 
 ---
