@@ -1,124 +1,184 @@
-<h1 align="center">Hi there, I'm Arush 👋</h1>
-<h3 align="center">PhD Researcher in Meiotic Chromosome Biology · Murakami Lab · University of Aberdeen 🏴󠁧󠁢󠁳󠁣󠁴󠁿</h3>
+<h1 align="center">Arrosan Rajalingam (Arush) 👋</h1>
+
+<h3 align="center">Meiotic Chromosome Biologist · Genome Stability · Computational Genomics</h3>
 
 <p align="center">
-  <a href="https://arrosanrajalingam.github.io/"><img src="https://img.shields.io/badge/Website-arrosanrajalingam.github.io-2D9596?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=ezPEEUIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
-  <a href="https://orcid.org/0000-0002-1933-7741"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/arrosan06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://bsky.app/profile/arrosan.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white"></a>
-  <a href="https://x.com/R_Arrosan"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="mailto:a.rajalingam.23@abdn.ac.uk"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  PhD Researcher · Murakami Lab · Institute of Medical Sciences · University of Aberdeen 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArrosanRajalingam&color=2D9596&style=flat-square&label=Profile+Views">
+  <a href="https://arrosanrajalingam.github.io/"><img src="https://img.shields.io/badge/Website-2D9596?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://scholar.google.com/citations?user=ezPEEUIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0000-0002-1933-7741"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.linkedin.com/in/arrosan06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:a.rajalingam.23@abdn.ac.uk"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.biorxiv.org/content/10.64898/2026.07.03.736430v2"><img src="https://img.shields.io/badge/NEW-First--author%20bioRxiv%20preprint-B31B1B?style=for-the-badge" alt="New first-author bioRxiv preprint"></a>
 </p>
 
 ---
 
-## 🧬 About Me
+## 🔬 Research at a Glance
 
-I'm a **third-year PhD researcher** at the **Institute of Medical Sciences, University of Aberdeen**, working in the **Murakami Lab** under **Dr Hajime Murakami** (primary supervisor) and **Dr Alexander Lorenz** (co-supervisor).
+I investigate how **meiotic cohesin** and **chromosome-axis proteins** organise chromosomes to control programmed **DNA double-strand break (DSB) formation**, checkpoint signalling and faithful chromosome segregation.
 
-My research investigates the **molecular mechanisms of meiotic recombination initiation** — how meiosis-specific **cohesin** and **chromosome-axis proteins** cooperate to regulate programmed **DNA double-strand break (DSB) formation** and shape the recombination landscape. I use budding yeast (*Saccharomyces cerevisiae*, SK1) to link chromosomal protein occupancy to meiotic outcomes.
+Using budding yeast (*Saccharomyces cerevisiae*, SK1), I connect molecular interactions to chromosome-wide protein occupancy and meiotic outcomes through an integrated combination of **genetics, biochemistry, cytology, calibrated genomics and reproducible computation**.
 
-> 📖 **Thesis:** *Meiosis-Specific Interaction Between Cohesin and Chromosome Axis Proteins Regulates Recombination Initiation*
+> **PhD thesis:** *Meiosis-Specific Interaction Between Cohesin and Chromosome Axis Proteins Regulates Recombination Initiation*
 
-<p align="center"><i>Meiosis · Recombination · Cohesin · Chromosome Axis (Red1 / Hop1) · DSB Formation · Calibrated ChIP-seq · S. cerevisiae</i></p>
+These mechanistic questions also motivate my emerging interests in **germ-cell proteins in cancer** and **genome stability during spaceflight and planetary exploration**.
 
-🔬 **In the lab & at the terminal:**
-- **Calibrated ChIP-seq** (*S. mikatae* spike-in) for quantitative, genome-wide protein occupancy
-- **S1-seq** for genome-wide mapping of meiotic DSBs
-- **Yeast molecular genetics**, co-IP, **BMOE crosslinking**, western blotting & chromosome immunostaining
-- **Reproducible pipelines** in R, Python & Linux/HPC
+---
+
+## 🧬 Featured Research
+
+### [Cohesin–axis interaction via a conserved Red1 motif promotes domain-specific DSB formation and Mek1 activation](https://www.biorxiv.org/content/10.64898/2026.07.03.736430v2)
+
+**First author · bioRxiv preprint · 2026**
+
+<p>
+  <a href="https://www.biorxiv.org/content/10.64898/2026.07.03.736430v2"><img src="https://img.shields.io/badge/Read-bioRxiv%20preprint-B31B1B?style=flat-square&logo=biorxiv&logoColor=white" alt="Read the bioRxiv preprint"></a>
+  <a href="https://doi.org/10.64898/2026.07.03.736430"><img src="https://img.shields.io/badge/DOI-10.64898%2F2026.07.03.736430-2D9596?style=flat-square" alt="Paper DOI"></a>
+</p>
+
+> We identify a conserved **cohesin-interacting motif in Red1** that binds **Rec8**, providing a molecular link between chromosome-axis assembly, spatial DSB regulation and **Mek1 checkpoint activation**.
+
+**Key findings**
+
+- The Red1 cohesin-interacting motif directly binds the meiotic cohesin subunit **Rec8**.
+- Disrupting this interaction preferentially reduces Red1 recruitment and DSB formation in Rec8-dependent chromosome domains.
+- The interaction supports Mek1 activation, crossover formation, chromosome segregation and spore viability.
+- Structural and biochemical evidence indicates conservation across fungi and plants.
+
+**Approaches:** AlphaFold3 modelling · Protein biochemistry · Calibrated ChIP-seq · S1-seq · Yeast genetics · Cytology
+
+---
+
+## 🧪 Research Expertise
+
+| Area | Skills and methods |
+|---|---|
+| **Meiosis & chromosome biology** | Meiotic recombination · Cohesin · Red1/Hop1 chromosome axis · DSB formation · Checkpoint signalling · Chromosome segregation |
+| **Quantitative genomics** | Calibrated ChIP-seq · *S. mikatae* spike-in normalisation · S1-seq · Genome-wide occupancy and DSB analysis |
+| **Molecular biology** | Yeast genetics · Co-immunoprecipitation · BPA crosslinking · BMOE crosslinking · Western blotting |
+| **Cell biology & cytology** | Meiotic time courses · Chromosome immunostaining · Spore viability and segregation assays |
+| **Quantitative bioimaging** | CellProfiler · Cellpose · Cell and nuclear segmentation · Nuclear/cytoplasmic protein-localisation analysis |
+| **Structural analysis** | AlphaFold3 protein-interaction modelling · Structure-guided mutational analysis |
+| **Research computing** | Bash/Shell · Linux/HPC · Reproducible pipelines · Git · Conda · Environment management |
+| **Data science** | R · Python · Statistical analysis · Publication-quality visualisation · Interactive dashboards |
+
+### Computational toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/HPC-2D9596?style=flat-square" alt="HPC">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Conda">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white" alt="RStudio">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+</p>
+
+---
+
+## ⚙️ Research Pipelines & Software
+
+| Project | What it demonstrates | Technologies |
+|---|---|---|
+| **Calibrated ChIP-seq pipeline** *(organisation-hosted)* | Quantitative protein-occupancy analysis using spike-in calibration | Bash · Linux/HPC · R |
+| **S1-seq analysis pipeline** *(organisation-hosted)* | Genome-wide mapping and analysis of meiotic DSBs | Bash · Linux/HPC · R/Python |
+| [CellProfiler nuclear-localisation workflow](https://github.com/HMurakami-lab/cellprofiler-nuclear-localisation) | Quantifies nuclear/cytoplasmic localisation of fluorescently labelled proteins from DIC, DAPI and protein-channel microscopy images | CellProfiler · Cellpose · R · Conda |
+| [AlphaFold 3 interaction-confidence extractor](https://github.com/ArrosanRajalingam/AlphaFold_3_Protein-Protein_Interaction_Confidence_Extractor) | Reproducible extraction and visualisation of protein-interaction confidence metrics | R · Structural bioinformatics |
+| [Fluorescent Spore Counter](https://github.com/ArrosanRajalingam/Fluorescent-Spore-Counter) | Accessible analysis tooling for yeast spore phenotyping | Web application · Biological image analysis |
+| [Volcano plots in R](https://github.com/ArrosanRajalingam/Volcano_plots_in_R) | Reusable statistical visualisation workflows | R · Data visualisation |
+
+> Some active research pipelines are maintained in organisation repositories. Public descriptions are shown here without exposing unpublished data or private code.
 
 ---
 
 ## 📚 Publications
 
-📄 **Peer-reviewed**
-- Rasalingam G, **Rajalingam A**, Chandradasa M, Nath M. *Assessment of mental health problems among adolescents in Sri Lanka: findings from the cross-sectional Global School-based Health Survey.* **Health Science Reports** (2022). [DOI: 10.1002/hsr2.886](https://doi.org/10.1002/hsr2.886)
-- Rasalingam G, **Rajalingam A**. *Parental engagement and adolescents' mental-health wellbeing: a cross-sectional study from Sri Lanka.* **Public Health Review** (2021). [DOI: 10.17511/ijphr.2021.i04.01](https://doi.org/10.17511/ijphr.2021.i04.01)
+### Meiosis & chromosome biology
 
-📜 Full list → [Google Scholar](https://scholar.google.com/citations?user=ezPEEUIAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-1933-7741)
+- **Rajalingam A**, Tsuruta Y, Roy T, Urdiain-Arraiza J, Alnaser HF, Hiraga S, Claeys Bouuaert C, Murakami H. *Cohesin–axis interaction via a conserved Red1 motif promotes domain-specific DSB formation and Mek1 activation.* **bioRxiv** (2026, preprint). [Preprint](https://www.biorxiv.org/content/10.64898/2026.07.03.736430v2) · [DOI](https://doi.org/10.64898/2026.07.03.736430)
 
----
+### Population health
 
-## 🛠️ Tech Stack
+- Rasalingam G, **Rajalingam A**, Chandradasa M, Nath M. *Assessment of mental health problems among adolescents in Sri Lanka: findings from the cross-sectional Global School-based Health Survey.* **Health Science Reports** (2022). [DOI](https://doi.org/10.1002/hsr2.886)
+- Rasalingam G, **Rajalingam A**. *Parental engagement and adolescents' mental-health wellbeing: a cross-sectional study from Sri Lanka.* **Public Health Review** (2021). [DOI](https://doi.org/10.17511/ijphr.2021.i04.01)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+📜 [Google Scholar](https://scholar.google.com/citations?user=ezPEEUIAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-1933-7741)
 
 ---
 
-## 🌱 Currently Growing In...
+## 🌱 Emerging Research Directions
 
-- 🐍 **Python** — scalable workflows for genomic data
-- 📊 **R** — statistical modelling & publication-quality visualisation
-- 🖥️ **Linux / HPC** — calibrated ChIP-seq pipelines on the cluster
-- 📈 Interactive dashboards with **Shiny (R)** and **Flask + Plotly (Python)**
+### Germ-cell proteins in cancer
+
+I am interested in how **germ-cell and meiotic proteins become aberrantly activated in tumours**, and how they influence **genome stability, homologous recombination, chromosome segregation, immune interactions and therapeutic resistance**. This may reveal new opportunities to use these proteins as **biomarkers, immunological targets or vulnerabilities for precision therapy**.
+
+### Genome stability beyond Earth
+
+I am also interested in how **cosmic radiation, microgravity and planetary environments** affect DNA-damage complexity, repair-pathway choice, chromosome stability and germ-cell development. A long-term goal is to connect mechanistic chromosome biology with the unresolved biological challenges of **human spaceflight and reproduction beyond Earth**.
+
+### The connecting thread
+
+My work on meiotic DSB formation, cohesin–axis organisation, checkpoint signalling, calibrated genomics and quantitative imaging provides a mechanistic foundation for studying how specialised chromosome programmes are repurposed in cancer or challenged by extreme environments.
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Collaboration Interests
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ArrosanRajalingam&show_icons=true&hide_border=true&title_color=2D9596&icon_color=2D9596&include_all_commits=true">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArrosanRajalingam&layout=compact&hide_border=true&title_color=2D9596&hide=html">
-</p>
+- Meiotic recombination, chromosome-axis organisation and cohesin biology
+- Germ-cell and meiotic proteins in cancer biology, genome instability and therapy response
+- Space-radiation biology, DNA repair and chromosome stability during spaceflight
+- Germ-cell development and reproductive biology in extraterrestrial environments
+- ChIP-seq, S1-seq and quantitative epigenomic workflows
+- Quantitative microscopy, cell segmentation and protein-localisation analysis
+- Reproducible research software for biological data analysis
+- Open science, research communication and scientific resources in Tamil
+- Community-centred health research and education
 
 ---
 
 ## 🧩 Affiliations
 
-- 🧪 **Murakami Lab** — Chromosome & Cellular Dynamics, IMS, University of Aberdeen
-  → cohesin, Red1, Hop1 & recombination initiation
-- 🌍 **Founding Member — [CPHMR](https://cphmr.org/)** — Centre for Population Health Medical Research
-  → promoting community-level collaboration in health, medicine & research across South Asia, with a focus on education, policy & sustainable development
-- 🎓 Member of the **Genetics Society** & **Biochemical Society** (UK)
+- 🧪 **Murakami Lab**, Institute of Medical Sciences, University of Aberdeen
+- 🌍 **Founding Member — [CPHMR](https://cphmr.org/)**, Centre for Population Health Medical Research
+- 🎓 Member of the **Genetics Society** and **Biochemical Society** (UK)
 
 ---
 
-## 🤝 Let's Collaborate On
+## 📊 GitHub Activity
 
-- 🔬 **ChIP-seq & epigenomic pipelines**
-- 🧬 **Open-source tools** for biological data analysis
-- 🌱 **Health-education tools** in local languages (especially **Tamil**)
-- 🏥 **Community health research** & field-based interventions
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ArrosanRajalingam&show_icons=true&hide_border=true&title_color=2D9596&icon_color=2D9596&include_all_commits=true" alt="Arrosan Rajalingam's GitHub statistics">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ArrosanRajalingam&layout=compact&hide_border=true&title_color=2D9596&hide=html" alt="Most-used public repository languages">
+</p>
 
----
-
-## ⚡ Fun Fact
-
-> I love **translating science into Tamil** and building **community-centred health tools** for rural areas 🚑📘
+<p align="center"><sub>Language statistics cover public, non-forked repositories owned by this account; organisation-hosted Bash/HPC pipelines are described above.</sub></p>
 
 ---
 
-## 📫 Find Me
+## 📫 Connect
 
-- 🌐 **Website:** [arrosanrajalingam.github.io](https://arrosanrajalingam.github.io/)
-- 📧 **Email:** [a.rajalingam.23@abdn.ac.uk](mailto:a.rajalingam.23@abdn.ac.uk)
-- 🎓 **Google Scholar:** [Arrosan Rajalingam](https://scholar.google.com/citations?user=ezPEEUIAAAAJ&hl=en)
-- 🆔 **ORCID:** [0000-0002-1933-7741](https://orcid.org/0000-0002-1933-7741)
-- 🏛️ **Aberdeen profile:** [abdn.ac.uk/people/a.rajalingam.23](https://www.abdn.ac.uk/people/a.rajalingam.23)
-- 💼 **LinkedIn:** [in/arrosan06](https://www.linkedin.com/in/arrosan06)
-- 🦋 **Bluesky:** [@arrosan.bsky.social](https://bsky.app/profile/arrosan.bsky.social)
-- 🐦 **X / Twitter:** [@R_Arrosan](https://x.com/R_Arrosan)
+<p align="center">
+  <a href="https://arrosanrajalingam.github.io/"><img src="https://img.shields.io/badge/Website-2D9596?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:a.rajalingam.23@abdn.ac.uk"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/arrosan06"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
----
+<p align="center">
+  <a href="https://bsky.app/profile/arrosan.bsky.social">Bluesky</a> ·
+  <a href="https://x.com/R_Arrosan">X / Twitter</a> ·
+  <a href="https://www.abdn.ac.uk/people/a.rajalingam.23">University of Aberdeen profile</a>
+</p>
 
-<!---
-ArrosanRajalingam/ArrosanRajalingam is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+<p align="center"><i>Translating chromosome biology into reproducible experiments, quantitative genomics and accessible tools.</i></p>
